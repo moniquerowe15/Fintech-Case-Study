@@ -2,6 +2,8 @@
  Case study of Trulioo and their space in the Regtech Industry
 ## Overview and Origin
 ![Image1](Images/Image2.jpeg)
+
+
 Imagine watching Anderson Cooper on CNN interviewing a lady in India who has set up a facebook profile for the first time and now she feels like she truly exists outside of her own head. A sense of belonging to the world and not just herself. Well, that formation of identity sparked the idea of Trulioo.  Founders Stephen Ufford and Tanis Jorge had a mission to bring that sense of belonging to others over the world on a global platform.[^1]
 
 
@@ -14,7 +16,7 @@ Identity verification stems into the realm of Know Your Client (KYC), Anti Money
 ![Image1](Images/Image1.png)
   
 
-Global Gateway solutions of Identity Verification, ID Document Verification, Business Verification, Embed ID and AML Watchlist Screening allows companies to achieve compliance, prevent fraud, build trust and ensure safety of their clients. Trulioo’s two main focus is to assist individuals and companies with the online onboarding identity verification and increasing the global scale of businesses.
+Global Gateway solutions of Identity Verification, ID Document Verification, Business Verification, Embed ID and AML Watchlist Screening allows companies to achieve compliance, prevent fraud, build trust and ensure safety for their clients. Trulioo’s two main focus is to assist individuals and companies with the online onboarding identity verification and increasing the global scale of businesses.
 
 
 Trulioo has been able to verify 5 billion people and they continue to reach the 7.5 billion goal to be a part of the safe space digital economy. Trulioo's competitive advantage is the borders they have been able to enter virtually, enabling them to provide their solutions to over 60 countries. 
@@ -26,9 +28,9 @@ Some smaller firms may have the capacity to do a similar service of identity ver
 Trulioo is a part of the Regtech domain also known as regulation technology. Regulations and policies will never go away. Regtech companies offer businesses systems to automate, track, and enhance compliance within their infrastructure. Regtech uses cloud computing and big data to monitor and solve issues in the digital economy.[^4] Companies like Trulioo collaborate with financial institutions and government bodies to gather information to implement programs to adhere to policies and protect users.
 
 
-From the 2008 financial crisis policies have tightened even more in the financial sector. The subprime mortgage crisis was something the world had never experienced before and don’t want to be in again. Prevention is key and that’s where regtech firms play a huge role in the Fintech sector. Regtech solutions help to solve compliance and regulatory issues of business. Regulations and policies will always be in place. Why not automate them to reduce risk and to focus on the sale and revenue to grow your company.  
+From the 2008 financial crisis policies have tightened even more in the financial sector. The subprime mortgage crisis was something the world had never experienced before and don’t want to be in again. Prevention is key and that’s where regtech firms play a huge role in the Fintech sector. Regtech solutions help to solve compliance and regulatory issues of businesses. Regulations and policies will always be in place. Why not automate them to reduce risk and to focus on the sale and revenue to grow your company.  
 
-Some great companies in the regtech field are IdentityMind, SuadeLabs and Silverfinch. IdentityMind is similar to Trulioo in identity verification, they aim to reduce fraud at the onboarding stage by 95% but they only operate in the United States. SuadeLabs focuses on helping banks complete regulatory reports. Silverfinch assists asset managers in the European Union to meet Solvency II requirements.[^5]
+Some great companies in the regtech field is IdentityMind, SuadeLabs and Silverfinch. IdentityMind is similar to Trulioo in identity verification, they aim to reduce fraud at the onboarding stage by 95% but they only operate in the United States. SuadeLabs focuses on helping banks complete regulatory reports. Silverfinch assists asset managers in the European Union to meet Solvency II requirements.[^5]
 
 
 
@@ -45,7 +47,7 @@ What truly makes Trulioo unique is their one system API. One API has brought the
 
 ## Recommendations
 
-With the large database of information I think Trulioo has the ability to create an Online ID which will be its own source of verification. Online ID can be a one stop shop for users. All of their clients' identity documents formed into one number like a SIN. For example you are purchasing a flight on the internet and is ask to fill out your information ( name, date of birth, passport etc.) just by interesting your Online ID number all of that information appears. 
+With the large database of information I think Trulioo has the ability to create an Online ID which will be its own source of verification. Online ID can be a one stop shop for users. All of their clients' identity documents formed into one number like a SIN. For example you are purchasing a flight on the internet and you are asked to fill out your information ( name, date of birth, passport etc.) just by interesting your Online ID number all of that information appears. 
 
 Online ID would attract more users to the platform and therefore allowing Trulioo to be closer to their goal of verifying the world.
 
